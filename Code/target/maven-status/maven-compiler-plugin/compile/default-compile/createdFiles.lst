@@ -1,0 +1,13 @@
+work\Item.class
+work\Owner.class
+work\IKafkaConstants.class
+work\Shop.class
+work\MidClass.class
+work\ConsumerCreator.class
+work\Supplier.class
+work\ProducerCreator.class
+work\Admin.class
+teste\SimpleStreamsExercises.class
+teste\SimpleProducer.class
+work\Customer.class
+work\Rest.class
